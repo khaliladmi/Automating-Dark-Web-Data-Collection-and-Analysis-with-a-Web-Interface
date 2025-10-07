@@ -1,4 +1,4 @@
-anaconda commands: 
+# anaconda commands: 
     conda create --name myenv # create env name 
     conda create --name myenv python=3.9 
     conda activate myenv #activate environnement
